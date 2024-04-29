@@ -1,9 +1,9 @@
 # Machine Learning Specialization
 ## About
-This repository acts as a support for solution of assignments, optional labs and quizzes that are solved by me during my ML specialization. I am not intended to sell or steal from [DeepLearning.AI](https://www.deeplearning.ai/). All the quizzes, assignments and optional labs are part of DeepLearning.AI.
+This repository serves as a support for the solution of assignments, optional labs and exams solved by me during the ML course. All exams, assignments and on-demand labs are part of DeepLearning.AI.
 
 ## Sections
-There are total 3 courses inside this specialization. The basic structure for each course is divided into weeks. Here is a basic structure of `course 01, week 02`:
+There are a total of 3 courses within this specialization. The basic structure for each course is divided into weeks. Here is an example of the basic structure of course 01, week 02:
 ```tree
 Week02/
 ├── Optional_Lab
